@@ -26,3 +26,4 @@ doc/api/
 
 # Honestly not sure what the hell this is, but i think it includes my private signing "credentials" (or at least the proof that i signed this, which includes my private email) so i'll just gitignore it
 buildios/
+.DS_Store
