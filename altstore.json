@@ -1,0 +1,18 @@
+{
+    "name": "Quotes",
+    "identifier": "io.github.terrain2.quotes",
+    "apps": [
+        {
+            "name": "Quotes",
+            "subtitle": "Cool Quotes!",
+            "developerName": "Terrain",
+            "bundleIdentifier": "io.github.terrain2.quotes",
+            "version": "1.0.0",
+            "downloadURL": "https://github.com/Terrain2/quotes-app/releases/download/1.0.0/app.ipa",
+            "iconURL": "icons/icon-512.png",
+            "tintColor": "1e1e1e",
+            "localizedDescription": "Some cool quotes lol",
+            "versionDate": "2020-05-08"
+        }
+    ]
+}
